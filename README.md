@@ -7,5 +7,5 @@ This repository contains all of Ethan Panal's project work for Dataquest.com as 
 * P2: Exploring eBay Car Sales. [Link to project](https://github.com/epanal/Projects/tree/master/Exploring%20eBay%20Car%20Sales)
 
 ## Courses
-Dataquest from Dataquest.io
-Springboard Data Analyst Career Track at Springboard.com
+* Dataquest Analyst Path in Python at Dataquest.io
+* Springboard Data Analyst Career Track at Springboard.com
