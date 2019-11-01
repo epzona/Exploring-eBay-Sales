@@ -1,3 +1,5 @@
+# Exploring eBay Car Sales
+
 The aim of this project is to clean the data and analyze a dataset of used cars from a classifieds section of the German eBay website. This project will also exercise my use of the pandas and NumPy libraries.
 
 The original dataset can be found on Kaggle
