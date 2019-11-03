@@ -3,7 +3,8 @@ Having the opportunity visit a number of different countries for work and leisur
 
 * What country outside of the U.S. has the most deaths since 2002? In this decade, 2010s?
 * What is the leading cause of overseas deaths?
-Notes from U.S. State Dept website
+
+Notes from [U.S. State Dept](https://travel.state.gov/content/travel/en/international-travel/while-abroad/death-abroad1/death-statistics.html) website
 
 "Sec. 204(c) of P.L. 107-228, the Foreign Relations Authorization Act for Fiscal Year 2003, mandates that, to the maximum extent practicable, the Department of State collect and make available on the Department's Bureau of Consular Affairs Internet web site certain information with respect to each United States citizen who dies in a foreign country from a non-natural cause. The information required is: (1) the date of death; (2) the locality where the death occurred; and (3) the cause of death, including, if the death resulted from an act of terrorism, a statement disclosing that fact. The information on the web site must be listed on a country-by-country basis, and must cover deaths occurring since the date of enactment of the legislation on September 30, 2002, or occurring during the preceding three calendar years, whichever period is shorter. The information is updated every six months."
 
