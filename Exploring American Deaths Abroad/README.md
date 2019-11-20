@@ -10,6 +10,8 @@ Notes from [U.S. State Dept](https://travel.state.gov/content/travel/en/internat
 
 "Deaths that are listed as 'undetermined/unknown' have been reported to the Department of State as deaths from non-natural causes, but local authorities have not provided additional information."
 
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZjUzMzAzZGMtMmNkOS00ZjRmLWE4NjktMjZjZDZiNDVjMmZmIiwidCI6IjFlZjAzNjg0LWNkYjYtNGJlMC05M2NkLTM0NGVhYjdkZDFlMyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 * [Tableau Dashboard](https://public.tableau.com/profile/ethan.panal#!/vizhome/DeathsAbroad/Dashboard2)
 * [Python Code](https://github.com/epanal/epanal.github.io/blob/master/Exploring%20American%20Deaths%20Abroad/deathsAbroad.ipynb)
 * [Github](https://github.com/epanal/epanal.github.io/tree/master/Exploring%20American%20Deaths%20Abroad)
