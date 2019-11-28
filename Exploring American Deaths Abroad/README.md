@@ -1,5 +1,5 @@
 ## Exploring U.S. Deaths Abroad Since 2002
-Having the opportunity visit a number of different countries for work and leisure, I always make sure to research travel risks and stay aware of current news to keep myself safe. One of the resources I use is the U.S. State Dept website, featuring travel advisories and information of American non-natural caused deaths overseas since October 2002. In this project, I will explore this dataset to answers questions like:
+The U.S. State Dept website features information of American non-natural caused deaths overseas since October 2002. In this project, I will explore this dataset to answers questions like:
 
 * What country outside of the U.S. has the most deaths since 2002? In this decade, 2010s?
 * What is the leading cause of overseas deaths?
